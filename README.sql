@@ -1,0 +1,2 @@
+# SQL-LIA
+SELECT NOW();
